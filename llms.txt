@@ -1,0 +1,22 @@
+# Sportzfy TV Guide
+
+> An English-language guide explaining Sportzfy TV, its advertised Android streaming features, APK installation steps, device compatibility, playback troubleshooting, and download safety considerations.
+
+## Main page
+
+- [Sportzfy TV guide](https://sportzfylive.vercel.app/): Main article and FAQ.
+
+## Topics covered
+
+- Sportzfy TV overview and advertised content categories
+- Android APK download and installation steps
+- Version checks and update precautions
+- Streaming performance and buffering troubleshooting
+- Android TV compatibility
+- APK permissions, Google Play Protect, and content authorization
+
+## Content notes
+
+- The article describes advertised features; it does not guarantee that individual channels or events are available.
+- Version numbers, device support, and stream availability may change and should be verified on the live website.
+- This file is a machine-readable site summary, not a substitute for the full page.
